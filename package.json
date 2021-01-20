@@ -30,7 +30,7 @@
   },
   "configuration": {
     "name": "DNS",
-    "level": "info",
+    "level": "debug",
     "www": "public",
     "config": "config.json",
     "context": "/",
